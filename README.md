@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Kamen Riders Showa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Exploração completa da Era Showa dos Kamen Riders (1971-1989), sua evolução e impacto cultural, e como esses elementos influenciaram a criação do filme *Shin Kamen Rider* (2023), dirigido por Hideaki Anno.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT
+- Microsoft Word
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **ChatGPT**: ChatGPT criou um documento com as informações que eu pedi para escrever sobre, cujo eu pedi para formatar em formato docx logo em seguida.
+2. **Docx**: Pedi para o ChatGPT formatar o arquivo docx para .md e então só pedi para o ChatGPT fazer algumas alterações no arquivo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Uma análise detalhada do legado dos Kamen Riders da Era Showa e sua relevância cultural até os dias de hoje.
+- Estrutura narrativa que conecta o passado e o presente, destacando a relevância do filme *Shin Kamen Rider* como uma reinterpretação moderna.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A criação deste projeto reforça a importância de revisitar clássicos culturais e adaptá-los com sensibilidade para um novo público. *Shin Kamen Rider* é um exemplo brilhante de como o legado pode ser revitalizado sem perder sua essência.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- [E-BOOK](https://docs.google.com/document/d/1QZ3TS3gbbbSyxBIEK4gR4w_KnE3-kN4r/edit?usp=sharing&ouid=113702179904719416686&rtpof=true&sd=true)
